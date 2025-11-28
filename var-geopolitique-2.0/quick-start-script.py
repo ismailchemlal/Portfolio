@@ -321,7 +321,7 @@ def show_documentation():
 ║  📊 var_geopolitical_analysis.png                                        ║
 ║     → Graphiques: GPR, VaR comparison, régimes, performance              ║
 ║                                                                           ║
-║  📈 backtest_metrics.csv (si généré)                                     ║
+║  📈 backtest_metrics.csv                                     ║
 ║     → Métriques détaillées des deux modèles                              ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
